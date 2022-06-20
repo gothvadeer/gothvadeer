@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruama</h1>
-<h3 align="center">A passionate studant from Brazil</h3>
+<h3 align="center">A passionate student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 - 🌱 I’m currently learning **Alura, Startse, HarvardX, Coursera, Bootstrap, React**.
 
