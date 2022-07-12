@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ruama</h1>
+<h1 align="center">Hi, I'm Ruama</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
-- 🌱 I’m currently learning **Javascript**.
+ I’m currently learning **Javascript**.
 
-- 💬 Ask me about **Front end**
-
-- 📫 How to reach me **Likedin*
+ Ask me about **Front end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
