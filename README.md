@@ -4,6 +4,7 @@
 
 
 . I’m currently learning **Javascript**
+<br>
 . Ask me about **Front end**
 
 <h3 align="left">Connect with me:</h3>
