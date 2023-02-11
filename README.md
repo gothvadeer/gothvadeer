@@ -6,6 +6,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gothvadeer&bg_color=dfb881&color=aa7c3c&line=590d0d&point=170e07&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://komarev.com/ghpvc/?username=gothvadeera&label=PROFILE%20VIEWS&color=ffc491&style=flat" alt="gothvadeer" /> 
+
+
 <h3 align="center">
 I am currently learning :snake: </h3>
 <p align="center"> 
