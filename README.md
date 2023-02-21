@@ -8,11 +8,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=gothvadeera&label=PROFILE%20VIEWS&color=ffc491&style=flat" alt="gothvadeer" /> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gothvadeer&theme=moltack)
+
 
 <h3 align="center">
 I am currently learning :snake: </h3>
 <p align="center"> 
-<img src="https://www.svgrepo.com/show/376344/python.svg" width="40" height="40"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-logo-icon.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/376344/python.svg" width="40" height="40"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-logo-icon.png" width="40" height="40"/>
   </p>
 
 <h3 align="center">Connect with me</h3>
