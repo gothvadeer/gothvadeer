@@ -6,6 +6,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gothvadeera&label=PROFILE%20VIEWS&color=ffc491&style=flat" alt="gothvadeer" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gothvadeer&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gothvadeer&hide_progress=true&color=ffc491)
 
 
